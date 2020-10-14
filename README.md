@@ -1,5 +1,9 @@
 # Stafford Results Cleaned
-Data Cleaning in Python for the 2016-2020 (up to September 4th, 2020) Stafford Motor Speedway SK Modified Race Results
+[![GitHub](https://img.shields.io/github/license/jacobmannix/stafford-results-cleaned?color=blue)](LICENSE)
+[![GitHub top language](https://img.shields.io/github/languages/top/jacobmannix/stafford-results-cleaned)](https://github.com/JacobMannix/stafford-results-cleaned)
+[![GitHub last commit](https://img.shields.io/github/last-commit/jacobmannix/stafford-results-cleaned)](https://github.com/JacobMannix/stafford-results-cleaned/commits/master)
+
+> <b> Data Cleaning in Python for the 2016-2020 (up to September 4th, 2020) Stafford Motor Speedway SK Modified Race Results. </b>
 
 ### Context
 
